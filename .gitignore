@@ -1,0 +1,23 @@
+# dependencies
+/node_modules
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+pnpm-lock.yaml
+
+# production
+/dist
+
+# misc
+/.DS_Store
+/.history
+/desktop.ini
+
+# env
+/.env
+/.env.local
+
+/.vscode
+
